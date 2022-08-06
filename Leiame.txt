@@ -1,0 +1,15 @@
+npm init --y 
+
+npm install --global yarn
+
+yarn add nodemon
+
+yarn add express
+
+yarn add -d typescript
+
+npx tsc --init
+
+yarn add -D ts-node-dev
+
+yarn add -D @types/express
